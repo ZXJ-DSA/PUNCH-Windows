@@ -1,0 +1,2 @@
+for %%i IN (4) DO Assemble.exe %%i C:/Users/xinjie/Datasets/CAL/CAL.co C:/Users/xinjie/Datasets/CAL/CAL C:/Users/xinjie/Datasets/CAL/tmp/%%ianode.txt  C:/Users/xinjie/Datasets/CAL/tmp/%%iaedge.txt  C:/Users/xinjie/Datasets/CAL/CAL_NC_%%i/
+pause

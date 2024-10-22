@@ -1,0 +1,11 @@
+﻿  RemoveDup.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Preprocess\RemoveDup.cpp(78,18): warning C4477: 'fprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Preprocess\RemoveDup.cpp(78,18): message : consider using '%zd' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Preprocess\RemoveDup.cpp(40,7): warning C4101: 'buff': unreferenced local variable
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Preprocess\RemoveDup.cpp(39,7): warning C4101: 'c': unreferenced local variable
+  Generating code
+  11 of 149 functions ( 7.4%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Preprocess.vcxproj -> C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\x64\Release\Preprocess.exe

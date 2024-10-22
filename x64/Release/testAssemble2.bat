@@ -1,0 +1,2 @@
+for %%i IN (4 8 64 128 256) DO Assemble.exe %%i C:/Users/xinjie/Datasets/CTR/CTR.co C:/Users/xinjie/Datasets/CTR/CTR C:/Users/xinjie/Datasets/CTR/tmp/%%ianode.txt  C:/Users/xinjie/Datasets/CTR/tmp/%%iaedge.txt  C:/Users/xinjie/Datasets/CTR/CTR_NC_%%i/
+pause

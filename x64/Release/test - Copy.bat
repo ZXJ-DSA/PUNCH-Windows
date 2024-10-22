@@ -1,0 +1,2 @@
+for %%i IN (64 128 256) DO Assemble.exe %%i C:/Users/xinjie/Datasets/W/W.co C:/Users/xinjie/Datasets/W/W C:/Users/xinjie/Datasets/W/tmp/%%ianode.txt  C:/Users/xinjie/Datasets/W/tmp/%%iaedge.txt  C:/Users/xinjie/Datasets/W/W_NC_%%i/
+pause
