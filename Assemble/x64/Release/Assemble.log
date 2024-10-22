@@ -1,0 +1,83 @@
+﻿  Utility.cpp
+  Assemble.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(29,2): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(29,2): message : consider using '%zu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(29,2): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(29,2): message : consider using '%zu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(119,19): warning C4477: 'fscanf_s' : format string '%u' requires an argument of type 'unsigned int *', but variadic argument 2 has type '__int64 *'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(119,19): message : consider using '%llu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(119,19): message : consider using '%Iu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\Assemble.cpp(119,19): message : consider using '%I64u' in the format string
+  A_Graph.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(30,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(71,22): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(74,45): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(364,49): warning C4267: '=': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(427,49): warning C4267: '=': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(489,16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(499,44): warning C4267: 'argument': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(577,16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(587,44): warning C4267: 'argument': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(998,35): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1001,52): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1062,61): warning C4267: '=': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1147,16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1157,67): warning C4267: 'argument': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1245,28): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1274,28): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1408,4): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1408,4): message : consider using '%zu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1432,29): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1433,46): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(256,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty1=NodeID
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1275): message : see reference to function template instantiation 'std::pair<NodeID,NodeID>::pair<unsigned __int64,unsigned int,0>(std::pair<unsigned __int64,unsigned int> &&) noexcept' being compiled
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(1275): message : see reference to function template instantiation 'std::pair<NodeID,NodeID>::pair<unsigned __int64,unsigned int,0>(std::pair<unsigned __int64,unsigned int> &&) noexcept' being compiled
+  R_Graph.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\R_Graph.cpp(19,8): warning C4101: 'skip': unreferenced local variable
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\R_Graph.cpp(70,34): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\R_Graph.cpp(105,20): warning C4477: 'fprintf_s' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\R_Graph.cpp(105,20): message : consider using '%zu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\R_Graph.cpp(110,21): warning C4477: 'fprintf_s' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\R_Graph.cpp(110,21): message : consider using '%zu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\R_Graph.cpp(139,16): warning C4267: 'return': conversion from 'size_t' to 'EdgeWeight', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1478 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assemble.vcxproj -> C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\x64\Release\Assemble.exe

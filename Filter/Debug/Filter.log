@@ -1,0 +1,14 @@
+﻿  G_Graph.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(101,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(128,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(23,8): warning C4101: 'skip': unreferenced local variable
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(846,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(861,14): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(950,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(956,11): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1503,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1917,75): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1986,21): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  Filter.vcxproj -> C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Debug\Filter.exe

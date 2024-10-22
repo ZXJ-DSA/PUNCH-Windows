@@ -1,0 +1,8 @@
+﻿  Utility.cpp
+  Assemble.cpp
+  A_Graph.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(30,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Assemble\A_Graph.cpp(60,17): warning C4018: '<': signed/unsigned mismatch
+  R_Graph.cpp
+  Generating Code...
+  Assemble.vcxproj -> C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Debug\Assemble.exe

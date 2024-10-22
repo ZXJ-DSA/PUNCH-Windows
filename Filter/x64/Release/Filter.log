@@ -1,0 +1,143 @@
+﻿  Utility.cpp
+  Filter.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(61,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(63,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(28,1): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(28,1): message : consider using '%zd' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(45,1): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(45,1): message : consider using '%zd' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(58,1): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(58,1): message : consider using '%zd' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(66,1): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(66,1): message : consider using '%zd' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(85,1): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(85,1): message : consider using '%zd' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(97,1): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\Filter.cpp(97,1): message : consider using '%zd' in the format string
+  G_Graph.cpp
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(61,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\PushRelabel.h(63,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(97,22): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(100,45): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(23,8): warning C4101: 'skip': unreferenced local variable
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(596,37): warning C4267: 'argument': conversion from 'size_t' to 'const EdgeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(649,49): warning C4267: '=': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(705,49): warning C4267: '=': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(758,25): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(827,52): warning C4267: '+=': conversion from 'size_t' to 'NodeSize', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(838,53): warning C4267: '+=': conversion from 'size_t' to 'NodeSize', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(848,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(863,14): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(896,53): warning C4267: '+=': conversion from 'size_t' to 'NodeSize', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(958,11): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(985,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(986,44): warning C4267: 'initializing': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1181,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1182,44): warning C4267: 'initializing': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1462,49): warning C4267: '=': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1667,16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1679,55): warning C4267: 'argument': conversion from 'size_t' to 'NodeSize', possible loss of data
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1751,26): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1754,43): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1768,22): warning C4477: 'fprintf_s' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1768,22): message : consider using '%zu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1790,22): warning C4477: 'fprintf_s' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1790,22): message : consider using '%zu' in the format string
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1919,75): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1988,21): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(1989,50): warning C4267: '=': conversion from 'size_t' to 'NodeID', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(1267,59): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(1276): message : see reference to function template instantiation 'void std::list<NodeID,std::allocator<std::seed_seq::result_type>>::_Assign_cast<unsigned int&,unsigned __int64*>(_UIter,const _UIter)' being compiled
+          with
+          [
+              _UIter=unsigned __int64 *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(1276): message : see reference to function template instantiation 'void std::list<NodeID,std::allocator<std::seed_seq::result_type>>::_Assign_cast<unsigned int&,unsigned __int64*>(_UIter,const _UIter)' being compiled
+          with
+          [
+              _UIter=unsigned __int64 *
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(2002): message : see reference to function template instantiation 'void std::list<NodeID,std::allocator<std::seed_seq::result_type>>::assign<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Ty=Bits,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Bits>>>
+          ]
+C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\Filter\G_Graph.cpp(2002): message : see reference to function template instantiation 'void std::list<NodeID,std::allocator<std::seed_seq::result_type>>::assign<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Ty=Bits,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Bits>>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(682,47): warning C4244: 'initializing': conversion from 'unsigned __int64' to '_Objty', possible loss of data
+          with
+          [
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(660): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64&>(_Alloc &,_Objty *const ,unsigned __int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<NodeID,std::_Default_allocator_traits<std::allocator<std::seed_seq::result_type>>::void_pointer>>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(660): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64&>(_Alloc &,_Objty *const ,unsigned __int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<NodeID,std::_Default_allocator_traits<std::allocator<std::seed_seq::result_type>>::void_pointer>>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(1255): message : see reference to function template instantiation 'void std::_List_node_insert_op2<std::allocator<std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Append_range_unchecked<_UIter,_UIter>(_InIt,const _Sentinel)' being compiled
+          with
+          [
+              _Ty=NodeID,
+              _Alloc=std::allocator<std::seed_seq::result_type>,
+              _UIter=unsigned __int64 *,
+              _InIt=unsigned __int64 *,
+              _Sentinel=unsigned __int64 *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(1255): message : see reference to function template instantiation 'void std::_List_node_insert_op2<std::allocator<std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Append_range_unchecked<_UIter,_UIter>(_InIt,const _Sentinel)' being compiled
+          with
+          [
+              _Ty=NodeID,
+              _Alloc=std::allocator<std::seed_seq::result_type>,
+              _UIter=unsigned __int64 *,
+              _InIt=unsigned __int64 *,
+              _Sentinel=unsigned __int64 *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(1276): message : see reference to function template instantiation 'void std::list<NodeID,std::allocator<std::seed_seq::result_type>>::_Assign_cast<unsigned int&,unsigned __int64*>(_UIter,const _UIter)' being compiled
+          with
+          [
+              _UIter=unsigned __int64 *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(1276): message : see reference to function template instantiation 'void std::list<NodeID,std::allocator<std::seed_seq::result_type>>::_Assign_cast<unsigned int&,unsigned __int64*>(_UIter,const _UIter)' being compiled
+          with
+          [
+              _UIter=unsigned __int64 *
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1848 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Filter.vcxproj -> C:\Users\xinjie\Codes\Graph-Partitioning-with-Natural-Cuts-master\x64\Release\Filter.exe
